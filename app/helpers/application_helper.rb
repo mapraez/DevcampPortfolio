@@ -18,5 +18,10 @@ def source_helper(layout_name)
    end
 end
 
+def copyright_generator
+  ApraezViewTool::Renderer.copyright 'Marco Apraez', 'All rights reserved'
+end
+
+
 
 end

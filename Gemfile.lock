@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/mapraez/apraez_view_tool
+  revision: 376f59ec665a472fde751eace04cb6c570192dc1
+  specs:
+    apraez_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -211,6 +217,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  apraez_view_tool!
   bootsnap (>= 1.4.2)
   bootstrap (~> 4.4.1)
   byebug
