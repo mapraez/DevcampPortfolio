@@ -52,3 +52,6 @@ gem 'petergate', '~> 2.0', '>= 2.0.1'
 
 gem 'apraez_view_tool', '~> 0.1.0'
 #gem 'apraez_view_tool', git: 'https://github.com/mapraez/apraez_view_tool'
+
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.5'
+gem 'kaminari', '~> 1.2'
