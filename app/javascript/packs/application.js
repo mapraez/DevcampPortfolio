@@ -13,6 +13,8 @@ require("jquery")
 require("jquery-ui")
 
 require("custom/html.sortable")
+require("custom/portfolios")
+
 
 $(function(){
   $('.sortable').sortable();
