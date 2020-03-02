@@ -1,0 +1,12 @@
+
+
+https://dev.to/morinoko/adding-custom-javascript-in-rails-6-1ke6
+https://www.dailysmarty.com/posts/ruby-on-rails-6-resources-for-working-with-webpacker-jquery-and-coffeescript
+
+
+
+151. https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
+
+
+161. https://github.com/jordanhudgens/devcamp-portfolio/blob/master/app/assets/javascripts/html.sortable.js
+162. http://dailysmarty.com/posts/drag-and-drop-with-jquery-in-rails-6
